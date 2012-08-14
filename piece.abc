@@ -1,5 +1,5 @@
 X:1
-T:choir_9_7
+T:nine_seven
 M:9/8
 L:1/4
 V:1 clef=treble
@@ -15,7 +15,7 @@ K:D
 %
 [V:1][M:9/8]f f f f f/|[M:7/8]f f/ f f|
 [V:2][M:9/8]d d d d d/|[M:7/8]c c/ c c|
-[V:3][M:9/8]B B B B B/|[M:7/8]^A A/ A A||
+[V:3][M:9/8]B B B B B/|[M:7/8]^A A/ A A|
 %
 [V:1][M:9/8]f f/e/ e/d/ c/d/e/|[M:7/8]f f/ f f|
 [V:2][M:9/8]d d d d d/|[M:7/8]c c/ c c|
